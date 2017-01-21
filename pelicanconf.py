@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Yang Sun'
-SITENAME = u'Yang Sun'
+AUTHOR = u'Xie Zhang'
+SITENAME = u'Xie Zhang Life'
 SITEURL = ''
+#TODO
 SITE_DESCRIPTION = 'Hi, I’m Yang Sun and this is my blog where I write blog articles about myself and my work.'
 
 PATH = 'content'
@@ -28,6 +29,7 @@ LINKS = (#('Pelican', 'http://getpelican.com/'),
          )
 
 # Social widget
+#TODO
 SOCIAL = (('LinkedIn', 'https://ie.linkedin.com/in/yangsuntcd'),
           ('Another social link', '#'),)
 

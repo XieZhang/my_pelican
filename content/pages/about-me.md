@@ -5,7 +5,7 @@ Category:
 Tags:
 Slug: about-me
 Authors: Yang Sun
-Summary: Hi, I'm Yang Sun, I'm a 25-year-old software engineer on [IBM](https://www.ibm.com)'s [SmartCloud](https://www.ibm.com/cloud-computing/social/us/en/) Operations team in Dublin. I have a Master of Science in Computer Science from [University College Dublin](http://www.ucd.ie/about-ucd/). Previously I studied Networks and Distributed System in [Trinity College Dublin](https://www.tcd.ie) and did my undergraduate course in [Dundalk Institute Of Technology](https://www.dkit.ie).
+Summary: Hi, I'm Xie Zhang, I'm a 25-year-old software engineer on [IBM](https://www.ibm.com)'s [SmartCloud](https://www.ibm.com/cloud-computing/social/us/en/) Operations team in Dublin. I have a Master of Science in Computer Science from [University College Dublin](http://www.ucd.ie/about-ucd/). Previously I studied Networks and Distributed System in [Trinity College Dublin](https://www.tcd.ie) and did my undergraduate course in [Dundalk Institute Of Technology](https://www.dkit.ie).
 Status: 
 
 
